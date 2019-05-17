@@ -1,2 +1,2 @@
 # GitLearning
-Aim of this repository is for learning purpose.
+Purpose of this repository is for learning purpose.
